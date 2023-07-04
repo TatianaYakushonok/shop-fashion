@@ -4,6 +4,7 @@
 
 .arrivals__title {
   margin-bottom: 100px;
+  text-transform: uppercase;
 }
 
 .arrivals__cards {

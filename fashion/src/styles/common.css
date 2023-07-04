@@ -22,7 +22,6 @@ body {
   font-weight: 900;
   line-height: 1.04;
   letter-spacing: 0.06em;
-  text-transform: uppercase;
 }
 
 .title-2::after {

@@ -1,0 +1,37 @@
+.download__content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.download__text {
+  max-width: 510px;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.download__title {
+  font-size: 48px;
+  font-weight: 900;
+  line-height: 150%;
+  letter-spacing: 2.88px;
+  text-transform: uppercase;
+}
+
+.download__desc {
+  color: #7C7C7C;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 35px;
+  letter-spacing: -0.96px;
+}
+
+.download__img {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
